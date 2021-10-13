@@ -9,8 +9,8 @@
   Site  : https://elcereza.com/
   
   Autor : Gustavo Cereza
-  Disponibilizado por: Elcereza
-  
+  Disponibilizado por : Elcereza
+
   Redes : @ellcereza
   Canal : https://t.me/elcereza
 =======================================================================*/
